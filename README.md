@@ -1,7 +1,7 @@
 avr_midi_controler
 ==================
 
-A simple midi-controler based on a AT-MEGA32
+A simple midi-controler based on a ATMEGA32
 
 Features:
 - Digital I/O via expansionboards (like midibox.org)
